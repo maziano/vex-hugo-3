@@ -2,10 +2,7 @@
 banner:
   enable: true
   title: High Quality Apparels, Made with Eco-friendly inks!
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  content: 'We have Urban Outfit Apparels are designed to be lightweight and '
   image: "/images/black.jpg"
   button:
     enable: true
