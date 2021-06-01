@@ -2,7 +2,11 @@
 banner:
   enable: true
   title: High Quality Apparels, Made with Eco-friendly inks!
-  content: 'We have Urban Outfit Apparels are designed to be lightweight and '
+  content: At Urban Outfit, we pride ourselves as a local Tasmanian brand focus on
+    producing hand printed goods and apparels such as tees, hoodies, hats and more.We
+    remain focused on sustainability of our environment by using 1001%  eco-friendly
+    water-based inks free from PVC or phthalates. This makes our apparel safe for
+    the entire family including babies.
   image: "/images/black.jpg"
   button:
     enable: true
