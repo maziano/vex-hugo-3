@@ -31,6 +31,12 @@ fields:
     - type: text
       name: link
       label: link
+  - name: hello_from_urban_outfit
+    type: file
+    config:
+      maxSize: 64
+    label: Hello from urban Outfit
+    description: Life is beautiful
 - type: field_group
   name: features
   label: features
