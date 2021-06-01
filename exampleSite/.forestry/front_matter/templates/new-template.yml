@@ -3,6 +3,22 @@ label: new template
 hide_body: true
 fields:
 - type: field_group
+  name: promo
+  label: promo
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
   name: banner
   label: banner
   fields:
@@ -31,12 +47,6 @@ fields:
     - type: text
       name: link
       label: link
-  - name: hello_from_urban_outfit
-    type: file
-    config:
-      maxSize: 64
-    label: Hello from urban Outfit
-    description: Life is beautiful
 - type: field_group
   name: features
   label: features
@@ -76,22 +86,6 @@ fields:
     - type: text
       name: content
       label: content
-- type: field_group
-  name: promo
-  label: promo
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: file
-    name: image
-    label: image
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: content
-    label: content
 - type: field_group
   name: about_product
   label: about_product
