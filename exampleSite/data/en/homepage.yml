@@ -46,11 +46,10 @@ features:
 promo:
   enable: true
   image: "/images/green.jpg"
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Gift your loved ones with our Urban Outfit Classics
+  content: We have in stock some of of our best seller classics- branded with our
+    UO Logo. Suitable for all sexes, soft hand feel and lightweight. You can sport
+    these Tees as a casual top or when visiting your friends at the Pub.
 about_product:
   enable: true
   title: Why Choose Apple Watch
